@@ -1,0 +1,44 @@
+
+name: GH Brand Radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gh-brand-radar
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch public indexed mentions
+        env:
+          GH_TELEGRAM_BOT_TOKEN: ${{ secrets.GH_TELEGRAM_BOT_TOKEN }}
+          GH_TELEGRAM_CHAT_ID: ${{ secrets.GH_TELEGRAM_CHAT_ID }}
+        run: python monitor.py
+
+      - name: Commit collected state
+        run: |
+          git config user.name 'gh-brand-radar-bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add state.json
+          if [ -f mentions.csv ]; then git add mentions.csv; fi
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update brand mentions feed state'
+            git push
+          fi
