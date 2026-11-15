@@ -1,0 +1,190 @@
+{
+  "brands": {
+    "کمان‌لند": [
+      "کمان لند",
+      "کمان‌لند",
+      "کمانلند",
+      "kamanlend",
+      "kaman lend"
+    ],
+    "کمان‌استور": [
+      "کمان استور",
+      "کمان‌استور",
+      "کمانستور",
+      "kamanstore",
+      "kaman store"
+    ],
+    "طلابرد": [
+      "طلابرد",
+      "طلا برد",
+      "طلا‌برد",
+      "talaboard",
+      "tala board"
+    ],
+    "ثمین‌کالا": [
+      "ثمین کالا",
+      "ثمین‌کالا",
+      "ثمینکالا",
+      "saminkaala",
+      "samin kala",
+      "samin kaala"
+    ]
+  },
+  "search_sources": [
+    {
+      "brand": "کمان‌لند",
+      "channel": "وب و اخبار",
+      "url": "https://news.google.com/rss/search?q=%28%22%DA%A9%D9%85%D8%A7%D9%86+%D9%84%D9%86%D8%AF%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%E2%80%8C%D9%84%D9%86%D8%AF%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%D9%84%D9%86%D8%AF%22+OR+%22kamanlend%22+OR+%22kaman+lend%22%29&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "کمان‌لند",
+      "channel": "آپارات (نتایج گوگل)",
+      "url": "https://news.google.com/rss/search?q=%28%22%DA%A9%D9%85%D8%A7%D9%86+%D9%84%D9%86%D8%AF%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%E2%80%8C%D9%84%D9%86%D8%AF%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%D9%84%D9%86%D8%AF%22+OR+%22kamanlend%22+OR+%22kaman+lend%22%29+site%3Aaparat.com&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "کمان‌لند",
+      "channel": "لینکدین (نتایج گوگل)",
+      "url": "https://news.google.com/rss/search?q=%28%22%DA%A9%D9%85%D8%A7%D9%86+%D9%84%D9%86%D8%AF%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%E2%80%8C%D9%84%D9%86%D8%AF%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%D9%84%D9%86%D8%AF%22+OR+%22kamanlend%22+OR+%22kaman+lend%22%29+site%3Alinkedin.com&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "کمان‌لند",
+      "channel": "بله (نتایج گوگل)",
+      "url": "https://news.google.com/rss/search?q=%28%22%DA%A9%D9%85%D8%A7%D9%86+%D9%84%D9%86%D8%AF%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%E2%80%8C%D9%84%D9%86%D8%AF%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%D9%84%D9%86%D8%AF%22+OR+%22kamanlend%22+OR+%22kaman+lend%22%29+site%3Abale.ai&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "کمان‌لند",
+      "channel": "اینستاگرام (نتایج گوگل)",
+      "url": "https://news.google.com/rss/search?q=%28%22%DA%A9%D9%85%D8%A7%D9%86+%D9%84%D9%86%D8%AF%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%E2%80%8C%D9%84%D9%86%D8%AF%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%D9%84%D9%86%D8%AF%22+OR+%22kamanlend%22+OR+%22kaman+lend%22%29+site%3Ainstagram.com&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "کمان‌لند",
+      "channel": "تلگرام (نتایج گوگل)",
+      "url": "https://news.google.com/rss/search?q=%28%22%DA%A9%D9%85%D8%A7%D9%86+%D9%84%D9%86%D8%AF%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%E2%80%8C%D9%84%D9%86%D8%AF%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%D9%84%D9%86%D8%AF%22+OR+%22kamanlend%22+OR+%22kaman+lend%22%29+site%3At.me&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "کمان‌استور",
+      "channel": "وب و اخبار",
+      "url": "https://news.google.com/rss/search?q=%28%22%DA%A9%D9%85%D8%A7%D9%86+%D8%A7%D8%B3%D8%AA%D9%88%D8%B1%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%E2%80%8C%D8%A7%D8%B3%D8%AA%D9%88%D8%B1%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%D8%B3%D8%AA%D9%88%D8%B1%22+OR+%22kamanstore%22+OR+%22kaman+store%22%29&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "کمان‌استور",
+      "channel": "آپارات (نتایج گوگل)",
+      "url": "https://news.google.com/rss/search?q=%28%22%DA%A9%D9%85%D8%A7%D9%86+%D8%A7%D8%B3%D8%AA%D9%88%D8%B1%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%E2%80%8C%D8%A7%D8%B3%D8%AA%D9%88%D8%B1%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%D8%B3%D8%AA%D9%88%D8%B1%22+OR+%22kamanstore%22+OR+%22kaman+store%22%29+site%3Aaparat.com&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "کمان‌استور",
+      "channel": "لینکدین (نتایج گوگل)",
+      "url": "https://news.google.com/rss/search?q=%28%22%DA%A9%D9%85%D8%A7%D9%86+%D8%A7%D8%B3%D8%AA%D9%88%D8%B1%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%E2%80%8C%D8%A7%D8%B3%D8%AA%D9%88%D8%B1%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%D8%B3%D8%AA%D9%88%D8%B1%22+OR+%22kamanstore%22+OR+%22kaman+store%22%29+site%3Alinkedin.com&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "کمان‌استور",
+      "channel": "بله (نتایج گوگل)",
+      "url": "https://news.google.com/rss/search?q=%28%22%DA%A9%D9%85%D8%A7%D9%86+%D8%A7%D8%B3%D8%AA%D9%88%D8%B1%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%E2%80%8C%D8%A7%D8%B3%D8%AA%D9%88%D8%B1%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%D8%B3%D8%AA%D9%88%D8%B1%22+OR+%22kamanstore%22+OR+%22kaman+store%22%29+site%3Abale.ai&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "کمان‌استور",
+      "channel": "اینستاگرام (نتایج گوگل)",
+      "url": "https://news.google.com/rss/search?q=%28%22%DA%A9%D9%85%D8%A7%D9%86+%D8%A7%D8%B3%D8%AA%D9%88%D8%B1%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%E2%80%8C%D8%A7%D8%B3%D8%AA%D9%88%D8%B1%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%D8%B3%D8%AA%D9%88%D8%B1%22+OR+%22kamanstore%22+OR+%22kaman+store%22%29+site%3Ainstagram.com&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "کمان‌استور",
+      "channel": "تلگرام (نتایج گوگل)",
+      "url": "https://news.google.com/rss/search?q=%28%22%DA%A9%D9%85%D8%A7%D9%86+%D8%A7%D8%B3%D8%AA%D9%88%D8%B1%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%E2%80%8C%D8%A7%D8%B3%D8%AA%D9%88%D8%B1%22+OR+%22%DA%A9%D9%85%D8%A7%D9%86%D8%B3%D8%AA%D9%88%D8%B1%22+OR+%22kamanstore%22+OR+%22kaman+store%22%29+site%3At.me&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "طلابرد",
+      "channel": "وب و اخبار",
+      "url": "https://news.google.com/rss/search?q=%28%22%D8%B7%D9%84%D8%A7%D8%A8%D8%B1%D8%AF%22+OR+%22%D8%B7%D9%84%D8%A7+%D8%A8%D8%B1%D8%AF%22+OR+%22%D8%B7%D9%84%D8%A7%E2%80%8C%D8%A8%D8%B1%D8%AF%22+OR+%22talaboard%22+OR+%22tala+board%22%29&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "طلابرد",
+      "channel": "آپارات (نتایج گوگل)",
+      "url": "https://news.google.com/rss/search?q=%28%22%D8%B7%D9%84%D8%A7%D8%A8%D8%B1%D8%AF%22+OR+%22%D8%B7%D9%84%D8%A7+%D8%A8%D8%B1%D8%AF%22+OR+%22%D8%B7%D9%84%D8%A7%E2%80%8C%D8%A8%D8%B1%D8%AF%22+OR+%22talaboard%22+OR+%22tala+board%22%29+site%3Aaparat.com&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "طلابرد",
+      "channel": "لینکدین (نتایج گوگل)",
+      "url": "https://news.google.com/rss/search?q=%28%22%D8%B7%D9%84%D8%A7%D8%A8%D8%B1%D8%AF%22+OR+%22%D8%B7%D9%84%D8%A7+%D8%A8%D8%B1%D8%AF%22+OR+%22%D8%B7%D9%84%D8%A7%E2%80%8C%D8%A8%D8%B1%D8%AF%22+OR+%22talaboard%22+OR+%22tala+board%22%29+site%3Alinkedin.com&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "طلابرد",
+      "channel": "بله (نتایج گوگل)",
+      "url": "https://news.google.com/rss/search?q=%28%22%D8%B7%D9%84%D8%A7%D8%A8%D8%B1%D8%AF%22+OR+%22%D8%B7%D9%84%D8%A7+%D8%A8%D8%B1%D8%AF%22+OR+%22%D8%B7%D9%84%D8%A7%E2%80%8C%D8%A8%D8%B1%D8%AF%22+OR+%22talaboard%22+OR+%22tala+board%22%29+site%3Abale.ai&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "طلابرد",
+      "channel": "اینستاگرام (نتایج گوگل)",
+      "url": "https://news.google.com/rss/search?q=%28%22%D8%B7%D9%84%D8%A7%D8%A8%D8%B1%D8%AF%22+OR+%22%D8%B7%D9%84%D8%A7+%D8%A8%D8%B1%D8%AF%22+OR+%22%D8%B7%D9%84%D8%A7%E2%80%8C%D8%A8%D8%B1%D8%AF%22+OR+%22talaboard%22+OR+%22tala+board%22%29+site%3Ainstagram.com&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "طلابرد",
+      "channel": "تلگرام (نتایج گوگل)",
+      "url": "https://news.google.com/rss/search?q=%28%22%D8%B7%D9%84%D8%A7%D8%A8%D8%B1%D8%AF%22+OR+%22%D8%B7%D9%84%D8%A7+%D8%A8%D8%B1%D8%AF%22+OR+%22%D8%B7%D9%84%D8%A7%E2%80%8C%D8%A8%D8%B1%D8%AF%22+OR+%22talaboard%22+OR+%22tala+board%22%29+site%3At.me&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "ثمین‌کالا",
+      "channel": "وب و اخبار",
+      "url": "https://news.google.com/rss/search?q=%28%22%D8%AB%D9%85%DB%8C%D9%86+%DA%A9%D8%A7%D9%84%D8%A7%22+OR+%22%D8%AB%D9%85%DB%8C%D9%86%E2%80%8C%DA%A9%D8%A7%D9%84%D8%A7%22+OR+%22%D8%AB%D9%85%DB%8C%D9%86%DA%A9%D8%A7%D9%84%D8%A7%22+OR+%22saminkaala%22+OR+%22samin+kala%22+OR+%22samin+kaala%22%29&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "ثمین‌کالا",
+      "channel": "آپارات (نتایج گوگل)",
+      "url": "https://news.google.com/rss/search?q=%28%22%D8%AB%D9%85%DB%8C%D9%86+%DA%A9%D8%A7%D9%84%D8%A7%22+OR+%22%D8%AB%D9%85%DB%8C%D9%86%E2%80%8C%DA%A9%D8%A7%D9%84%D8%A7%22+OR+%22%D8%AB%D9%85%DB%8C%D9%86%DA%A9%D8%A7%D9%84%D8%A7%22+OR+%22saminkaala%22+OR+%22samin+kala%22+OR+%22samin+kaala%22%29+site%3Aaparat.com&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "ثمین‌کالا",
+      "channel": "لینکدین (نتایج گوگل)",
+      "url": "https://news.google.com/rss/search?q=%28%22%D8%AB%D9%85%DB%8C%D9%86+%DA%A9%D8%A7%D9%84%D8%A7%22+OR+%22%D8%AB%D9%85%DB%8C%D9%86%E2%80%8C%DA%A9%D8%A7%D9%84%D8%A7%22+OR+%22%D8%AB%D9%85%DB%8C%D9%86%DA%A9%D8%A7%D9%84%D8%A7%22+OR+%22saminkaala%22+OR+%22samin+kala%22+OR+%22samin+kaala%22%29+site%3Alinkedin.com&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "ثمین‌کالا",
+      "channel": "بله (نتایج گوگل)",
+      "url": "https://news.google.com/rss/search?q=%28%22%D8%AB%D9%85%DB%8C%D9%86+%DA%A9%D8%A7%D9%84%D8%A7%22+OR+%22%D8%AB%D9%85%DB%8C%D9%86%E2%80%8C%DA%A9%D8%A7%D9%84%D8%A7%22+OR+%22%D8%AB%D9%85%DB%8C%D9%86%DA%A9%D8%A7%D9%84%D8%A7%22+OR+%22saminkaala%22+OR+%22samin+kala%22+OR+%22samin+kaala%22%29+site%3Abale.ai&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "ثمین‌کالا",
+      "channel": "اینستاگرام (نتایج گوگل)",
+      "url": "https://news.google.com/rss/search?q=%28%22%D8%AB%D9%85%DB%8C%D9%86+%DA%A9%D8%A7%D9%84%D8%A7%22+OR+%22%D8%AB%D9%85%DB%8C%D9%86%E2%80%8C%DA%A9%D8%A7%D9%84%D8%A7%22+OR+%22%D8%AB%D9%85%DB%8C%D9%86%DA%A9%D8%A7%D9%84%D8%A7%22+OR+%22saminkaala%22+OR+%22samin+kala%22+OR+%22samin+kaala%22%29+site%3Ainstagram.com&hl=fa&gl=IR&ceid=IR%3Afa"
+    },
+    {
+      "brand": "ثمین‌کالا",
+      "channel": "تلگرام (نتایج گوگل)",
+      "url": "https://news.google.com/rss/search?q=%28%22%D8%AB%D9%85%DB%8C%D9%86+%DA%A9%D8%A7%D9%84%D8%A7%22+OR+%22%D8%AB%D9%85%DB%8C%D9%86%E2%80%8C%DA%A9%D8%A7%D9%84%D8%A7%22+OR+%22%D8%AB%D9%85%DB%8C%D9%86%DA%A9%D8%A7%D9%84%D8%A7%22+OR+%22saminkaala%22+OR+%22samin+kala%22+OR+%22samin+kaala%22%29+site%3At.me&hl=fa&gl=IR&ceid=IR%3Afa"
+    }
+  ],
+  "exclude_domains": [
+    "kamanlend.ir",
+    "kamanstore.ir",
+    "talaboard.com",
+    "saminkaala.ir"
+  ],
+  "ignore_owned_domains": true,
+  "startup_mode": "baseline",
+  "priority_keywords": [
+    "کلاهبرداری",
+    "شکایت",
+    "پاسخگو نیست",
+    "پاسخگو نیستند",
+    "برنگشت",
+    "نارضایتی",
+    "مشکل",
+    "تقلبی",
+    "اسکم",
+    "fraud",
+    "scam"
+  ],
+  "opportunity_keywords": [
+    "شرایط",
+    "چگونه",
+    "تجربه",
+    "کسی",
+    "اعتبار",
+    "قسطی",
+    "همکاری",
+    "سوال",
+    "وام",
+    "چطور",
+    "خرید"
+  ],
+  "telegram_max_per_run": 12
+}
